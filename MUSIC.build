@@ -1,0 +1,4 @@
+PUT NEW "Hollow Drift"
+PUT NEW "ZERO"
+LINK ADD "Hollow Drift" "ZERO"
+GET ALL "Hollow Drift"

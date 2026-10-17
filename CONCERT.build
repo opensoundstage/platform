@@ -1,0 +1,5 @@
+GET ONE "MUSIC.grain"
+PUT NEW "Friday Concert"
+LINK ADD "Friday Concert" "Hollow Drift"
+LINK ADD "Friday Concert" "ZERO"
+GET ALL "Friday Concert"
