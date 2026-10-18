@@ -150,3 +150,7 @@ vite.config.ts.timestamp-*
 
 # Local Netlify folder
 .netlify
+
+# Local Hosted API setup (never commit)
+/hosted-setup.html
+/netlify/functions/local-setup.mjs
